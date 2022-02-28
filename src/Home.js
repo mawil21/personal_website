@@ -1,6 +1,6 @@
 import React from 'react';
 import './Home.css';
-import logo from "./logo.png";
+import logo from "./logo.png"; {/* (60px * 60px) -> Resolution - 72*/}
 
 function Home() {
   return (
