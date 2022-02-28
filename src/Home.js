@@ -29,7 +29,7 @@ function Home() {
                             Welcome!!!
                         </h1>
                         <h2 className = "home__text pz__10">
-                            Hi, I'm Mawil Hasan
+                            Hi, I'm Mawil!
                         </h2>
                         <h3 className = "home__text sweet pz__10">
                             Codebase :)

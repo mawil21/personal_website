@@ -11,7 +11,7 @@ function About() {
                     <img src = {aboutImg} alt = "" className = "about__img" />
                 </div>
                 <div className = "col__2">
-                    <h1 className = "fuckmawil" >
+                    <h1 className = "About" >
                         About Me
                     </h1>
                     <div className = "about__meta">
