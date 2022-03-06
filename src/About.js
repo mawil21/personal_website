@@ -1,5 +1,6 @@
 import React from 'react';
 import './About.css';
+import Timeline from './Timeline';
 import aboutImg from './about.jpg';
 
 function About() {
@@ -8,9 +9,7 @@ function About() {
         <div className = "container">
             <div className = "row">
                 <div className = "col__2">
-                    <img src = {aboutImg} alt = "" className = "about__img" />
-                </div>
-                <div className = "col__2">
+                    {/* <img src = {aboutImg} alt = "" className = "about__img" /> */}
                     <h1 className = "About" >
                         About Me
                     </h1>
@@ -21,6 +20,9 @@ function About() {
                             asjdop;qjwe'oqwe o;qwjke'o;qwjeiqwje'oqwje'oq;wjeo'qwjoejqwo'ejqwoej]
                         </p>
                     </div>
+                </div>
+                <div className = "col__2">
+                    <img src = {aboutImg} alt = "" className = "about__img" />
                 </div>
                 
             </div>
