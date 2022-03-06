@@ -11,9 +11,9 @@ function Experience() {
       <div className = "experience__content">
                     <div className = "experience__text">
                         <h1 className = "experience__text pz__10">
-                            ::before
+                          
                             Experience
-                            ::after
+                            
 
                         </h1>
                         

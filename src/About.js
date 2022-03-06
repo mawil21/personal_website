@@ -17,7 +17,7 @@ function About() {
                     <div className = "about__meta">
                         <p className = "about__text p__color">
                             I am currently a second-year student majoring in Computer Science.
-                            ajiljqwepoqjw;ejq;wejo[12keo;'qjweo;q  [p2eio1;'wejqwopej'woeqklnkqw
+                            Right now, I am currently taking 
                             asjdop;qjwe'oqwe o;qwjke'o;qwjeiqwje'oqwje'oq;wjeo'qwjoejqwo'ejqwoej]
                         </p>
                     </div>
