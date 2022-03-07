@@ -1,0 +1,29 @@
+.contact {
+    background-color: #fff;
+}
+.title {
+    font-size: 60px;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+    background-color: white;
+    color: black;
+}
+.name {
+    
+    font-size: 1.2rem;
+    color:black;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.description {
+    font-size: 1.2rem;
+    color:black;
+    text-align: center;
+    font-family: Poppins, sans-serif;
+    font-weight: 700;
+    margin-bottom: 10px;
+}

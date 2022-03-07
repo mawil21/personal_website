@@ -1,6 +1,5 @@
 import React from 'react';
 import './About.css';
-import Timeline from './Timeline';
 import aboutImg from './about.jpg';
 
 function About() {
@@ -31,6 +30,6 @@ function About() {
   )
 }
 
-export default About
+export default About;
 
 // style={{fontSize: "54px"}}
