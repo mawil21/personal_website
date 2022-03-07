@@ -5,6 +5,7 @@ import About from './About';
 import Timeline from './Timeline';
 import Projects from './Projects';
 import Contact from './Contact';
+import Footer from './Footer';
 
 
 
@@ -16,6 +17,7 @@ function App() {
       <Timeline />
       <Projects/>
       <Contact />
+      {/* <Footer /> */}
 
     </div>
   );
