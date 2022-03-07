@@ -10,6 +10,8 @@ import Contact from './Contact';
 
 function App() {
   return (
+    <div style={{ backgroundImage: `url(/Users/mawil0721/Desktop/personal_web/public/images/img-9.jpeg)` }}>
+    
     <div className="App">
       <Home/>
       <About/>
@@ -17,6 +19,7 @@ function App() {
       <Projects/>
       <Contact />
 
+    </div>
     </div>
   );
 }

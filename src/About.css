@@ -1,6 +1,7 @@
 img.about__img{
     border-radius: 10px;
     width: 100%;
+
 }
 .About {
     /* margin-bottom: 30px;
@@ -13,6 +14,8 @@ img.about__img{
     font-weight: 800;
     font-family: Montserrat, sans-serif;
     color: #FFF;
+
+
 }
 
 button.about.btn.pointer {

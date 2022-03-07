@@ -45,8 +45,11 @@
 body{
   width: 100%;
   height: 100%;
-  background-color: black;
+  /* background-color: black; */
   font-family: sans-serif;
+  background-image: url(/Users/mawil0721/Desktop/personal_web/public/images/img-9.jpeg);
+
+  
 }
 a{
   text-decoration: none;
