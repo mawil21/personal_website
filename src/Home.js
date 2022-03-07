@@ -1,10 +1,17 @@
-import React from 'react';
+import React, {useState} from "react";
 import './Home.css';
 import logo from "./logo.png"; {/* (60px * 60px) -> Resolution - 72*/}
 
 function Home() {
+    // fixed Header
+  window.addEventListener("scroll", function () {
+    const header = document.querySelector(".header");
+    header.classList.toggle("active", window.scrollY > 0);
+  });
+  // Toogle Menu
+   const [show, setShow] = useState(true);
   return (
-    <div className='home'>
+    <div className='home' id = "Home">
         <div className = "home_bg">
             <div className='header d__flex align__items__center pxy__30'>
                 <div className = "logo">

@@ -7,6 +7,7 @@ h1.heading {
     font-family: Poppins, sans-serif;
     font-weight: 700;
     margin-bottom: 10px;
+    padding-top: 0.25em;
 }
 .service__box {
     border-radius: 10px;

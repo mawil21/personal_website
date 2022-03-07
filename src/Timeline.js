@@ -20,7 +20,8 @@ function Timeline() {
     
     return (
     //   <div className = "about component__space"> 
-    <div>
+   <div className = "about component__space" id = "Experience">
+   
         <h1 className = "title"> Timeline </h1>
         <VerticalTimeline>
             {
