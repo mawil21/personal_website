@@ -21,7 +21,7 @@ function Home() {
                     <ul className = "navbar d__flex pxy__30">
                         <a href = "#Home"><li className='nav__items mx__15'>Home</li></a>
                         <a href = "#About"><li className='nav__items mx__15'>About</li></a>
-                        <a href = "#Experience"><li className='nav__items mx__15'>Experience</li></a>
+                        <a href = "#Experience"><li className='nav__items mx__15'>Timeline</li></a>
                         <a href = "#Projects"><li className='nav__items mx__15'>Projects</li></a>
                         <a href = "#Contact"><li className='nav__items mx__15'>Contact</li></a>
 
@@ -36,11 +36,12 @@ function Home() {
                             Welcome!!!
                         </h1>
                         <h2 className = "home__text pz__10">
-                            Hi, I'm Mawil!
+                            Hi, I'm Mawil! 
                         </h2>
-                        <h3 className = "home__text sweet pz__10">
-                            Codebase :)
-                        </h3>
+                        <h4 className = "home__text sweet pz__10">
+                            I code, sleep, and workout :)
+                        </h4>
+                        
 
                     </div>
 

@@ -5,7 +5,7 @@ function Projects() {
     return (
         <div className="projects components__space" id = "Projects">
             <div className="heading">
-                <h1 className="heading"> Projects </h1>
+                <h1 className="title"> Projects </h1>
 
             </div>
             <div className="container">
